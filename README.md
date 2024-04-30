@@ -14,7 +14,8 @@ Neste laboratório, vamos realizar algumas funções básicas do Git e GitHub. A
 
 1. Volte ao Powershell e crie uma Branch com o mesmo nome de seu arquivo *.txt* (sua inicial + sobrenome). Faça isto através do comando `git checkout -b <nome-branch>` ![tela Powershell](Images/ps_II.png)
 
-1. Execute o comando `git status`: retorna o status de todos os comandos no **working directory** e **staging area**. ![tela Powershell](Images/ps_III.png) 
+1. Execute o comando `git status`: retorna o status de todos os comandos no **working directory** e **staging area**.
+    ![tela Powershell](Images/ps_III.png) 
     > Observe que ele nos retorna que o arquivo foi adicionado ao working directory.
 
 1. Execute o comando `git add <nome-arquivo>`: adiciona o arquivo à staging area. ![tela Powershell](Images/ps_IV.png)
