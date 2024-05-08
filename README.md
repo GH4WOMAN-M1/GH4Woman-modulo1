@@ -1,6 +1,6 @@
 # Laboratório – Módulo 1: Introdução ao Git e GitHub
 
-Neste laboratório, vamos realizar algumas funções básicas do Git e GitHub. Ao concluir, você terá realizado operações de criação de arquivos e registro de mudanças, assim como submissão e disponibilização deste arquivo dentro de um repositório no GitHub e tudo isso em sua própria Branch. Vamos embarcar!
+Neste laboratório, vamos realizar algumas funções básicas do Git e GitHub. Ao concluir, você terá realizado operações de criação de arquivos e registro de mudanças, assim como submissão e disponibilização deste arquivo dentro de um repositório no GitHub e tudo isso em sua própria Branch. Vamos embarcar! 
 
 1. Navegue até o repositório GitHub através deste [link](https://github.com/wesleygomes022/GH4Woman-modulo1)
 2. Faça o clone do repositório
